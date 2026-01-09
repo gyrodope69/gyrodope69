@@ -77,15 +77,15 @@ height="30" width="40" />
 
 <p>
 <img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=gyrodope69&show_icons=true&layout=compact&theme=dark" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyrodope69&layout=compact&theme=dark&cache_seconds=1800" />
 </p>
 
 <p>
 <img align="center"
-src="https://github-readme-stats.vercel.app/api?username=gyrodope69&show_icons=true&theme=dark" />
+src="https://github-readme-stats.vercel.app/api?username=gyrodope69&show_icons=true&theme=dark&cache_seconds=1800" />
 </p>
 
 <p>
 <img align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=gyrodope69&theme=dark" />
+src="https://github-readme-streak-stats.herokuapp.com/?user=gyrodope69&theme=dark&cache_seconds=1800" />
 </p>
